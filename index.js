@@ -11,6 +11,6 @@ class Caculator {
 Caculator.prototype.getSub = function () {
     return this.a - this.b;
 }
-
+xdzcfdfds
 console.log(new Caculator(5, 6).getSub());
 
